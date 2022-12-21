@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/data/android/food/app/src/main/res/drawable-v24/ic_button.xml" value="0.1955" />
+        <entry key="..\:/data/android/food/app/src/main/res/drawable-v24/ic_circle.xml" value="0.1955" />
+        <entry key="..\:/data/android/food/app/src/main/res/drawable-v24/ic_image.xml" value="0.1955" />
+        <entry key="..\:/data/android/food/app/src/main/res/drawable-v24/ic_info.xml" value="0.1955" />
+        <entry key="..\:/data/android/food/app/src/main/res/drawable-v24/ic_location.xml" value="0.1955" />
+        <entry key="..\:/data/android/food/app/src/main/res/layout/activity_food_info.xml" value="0.358695652173913" />
+        <entry key="..\:/data/android/food/app/src/main/res/layout/activity_index.xml" value="0.2526041666666667" />
+        <entry key="..\:/data/android/food/app/src/main/res/layout/activity_main.xml" value="0.1875" />
+        <entry key="..\:/data/android/food/app/src/main/res/layout/activity_maps.xml" value="0.358695652173913" />
+        <entry key="..\:/data/android/food/app/src/main/res/layout/activity_permisson.xml" value="0.2526041666666667" />
+        <entry key="..\:/data/android/food/app/src/main/res/layout/activity_profile.xml" value="0.2526041666666667" />
+        <entry key="..\:/data/android/food/app/src/main/res/layout/activity_profile_icon.xml" value="0.23802083333333332" />
+        <entry key="..\:/data/android/food/app/src/main/res/layout/activity_register.xml" value="0.2526041666666667" />
+        <entry key="..\:/data/android/food/app/src/main/res/layout/fragment_food_keep.xml" value="0.24010416666666667" />
+        <entry key="..\:/data/android/food/app/src/main/res/layout/fragment_food_list.xml" value="0.24010416666666667" />
+        <entry key="..\:/data/android/food/app/src/main/res/layout/fragment_food_map.xml" value="0.24010416666666667" />
+        <entry key="..\:/data/android/food/app/src/main/res/layout/fragment_register_image.xml" value="0.29739583333333336" />
+        <entry key="..\:/data/android/food/app/src/main/res/layout/fragment_register_input.xml" value="0.17753623188405798" />
+        <entry key="..\:/data/android/food/app/src/main/res/layout/fragment_register_location.xml" value="0.2526041666666667" />
+        <entry key="..\:/data/android/food/app/src/main/res/layout/item_food.xml" value="0.24010416666666667" />
+        <entry key="..\:/data/android/food/app/src/main/res/layout/main_drawer.xml" value="0.2515625" />
+        <entry key="..\:/data/android/food/app/src/main/res/menu/menu_drawer.xml" value="0.2515625" />
+        <entry key="..\:/data/android/food/app/src/main/res/menu/menu_submit.xml" value="0.2526041666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

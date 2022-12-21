@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RegisterImageFragment"
+    android:background="#E2E2E2">
+    <RelativeLayout android:layout_width="match_parent"
+        android:layout_height="400sp"
+        android:id="@+id/layout">
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="match_parent"
+            android:layout_height="400sp"
+            android:background="@drawable/ic_round"
+            android:scaleType="centerCrop"/>
+        <ImageView
+            android:id="@+id/camera"
+            android:layout_width="50sp"
+            android:layout_height="50sp"
+            android:src="@drawable/ic_camera"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:scaleType="fitCenter"
+            android:padding="10sp"/>
+    </RelativeLayout>
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true">
+        <Button
+            android:id="@+id/prev"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/ic_round"
+            android:text="이전"
+            android:layout_marginRight="10sp"/>
+        <Button
+            android:id="@+id/complete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/ic_round"
+            android:text="완료" />
+    </LinearLayout>
+</RelativeLayout>
